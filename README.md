@@ -1,4 +1,4 @@
-<h1 align="center">Hey folks, This is <a href="https://github.com/yajivm">Vijay <b>Mani</b></a></h1>
+<h1 align="center">Hi folks, This is <a href="https://github.com/yajivm">Vijay <b>Mani</b></a></h1>
 
 <h3 align="center">🚀 Frontend Developer | 9+ Years Crafting Stunning UIs</h3>
 
