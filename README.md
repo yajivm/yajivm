@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Frontend Developer | 9+ Years Crafting Stunning UIs</h3>
 
 <p align="center">
-  <a href="https://www.equalexperts.com"><img src="https://img.shields.io/badge/Senior%20Software%20Engineer-Equal%20Experts-1895D4?style=for-the-badge" alt="Equal Experts" /></a>
+  <a href="https://www.equalexperts.com" target="_blank"><img src="https://img.shields.io/badge/Senior%20Software%20Engineer-Equal%20Experts-1895D4?style=for-the-badge" alt="Equal Experts" /></a>
 </p>
 
 <p align="center">Bringing 9 years of experience in front-end development, I specialize in building responsive, scalable web and mobile applications. Passionate about React, TypeScript, and modern web technologies, skilled at transforming Figma designs into pixel-perfect applications, and continuously expanding my expertise in Vue.js and emerging UI trends. </p>
@@ -34,7 +34,7 @@
 
 <div align="center">
   <p align="center">When the user handles with sites it should be more familiar to use and interactive moreover it should be the Visual Treat for them.</p>
-  <a href="https://www.behance.net/yajiv23"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge" alt="Behance" /></a>
+  <a href="https://www.behance.net/yajiv23" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge" alt="Behance" /></a>
 </div>
 
 
@@ -52,10 +52,10 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yajiv/">
+  <a href="https://www.linkedin.com/in/yajiv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yajivm">
+  <a href="https://github.com/yajivm" target="_blank">
     <img src="https://img.shields.io/github/followers/yajivm?label=Follow&style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
